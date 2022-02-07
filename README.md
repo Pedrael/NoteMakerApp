@@ -1,5 +1,5 @@
-# note-maker-app
-
+# Note Maker App
+An application that allows to create own notes and store them in local storage of your browser. Also you can undo and redo the changes you done.
 ## Project setup
 ```
 npm install
